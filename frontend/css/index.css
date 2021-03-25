@@ -1,0 +1,13 @@
+.button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 15px 32px;
+}
+#admin{
+    background-color: red;
+}
+
+#reader{
+    background-color: green;
+}
