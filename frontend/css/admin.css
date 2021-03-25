@@ -1,0 +1,39 @@
+textarea {
+    width: 50%;
+    height: 50px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+    position: relative;
+  }
+  .button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 15px 32px;
+  }
+  .deleteQuote{
+    background-color: red;
+    color: white;
+    vertical-align: top;
+    margin-top: 15px;
+  }
+  #saveQuote{
+      background-color: green;
+      width: 175px;
+  }
+  #addQuote{
+      background-color: blue;
+      width: 175px;
+  }
+  #saveAll{
+    background-color: purple;
+    width: 175px;
+  }
+  #goBack{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+  }
